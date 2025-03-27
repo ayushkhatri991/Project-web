@@ -83,16 +83,16 @@
   font-size: 8vw !important;
   font-weight: bolder;
   color: white;
-  text-shadow: 3px 3px 5px rgba(79, 155, 193, 0.3),
-    0px 0px 25px rgba(177, 203, 227, 0.8), 0px 0px 10px rgba(105, 142, 153, 0.7);
+  text-shadow: 3px 3px 5px rgba(119, 155, 193, 0.3),
+    0px 0px 25px rgba(20, 203, 220, 0.8), 0px 0px 10px rgba(100, 148, 154, 0.7);
 }
 
 .address {
   font-size: 25px;
   font-weight: bold;
   color: white;
-  text-shadow: 3px 3px 5px rgba(155, 174, 183, 0.3),
-    0px 0px 25px rgba(12, 46, 79, 0.8), 0px 0px 10px rgba(123, 158, 168, 0.7);
+  text-shadow: 3px 3px 5px rgba(150, 174, 83, 0.3),
+    0px 0px 25px rgba(12, 46, 79, 0.8), 0px 0px 10px rgba(123, 58, 160, 0.7);
 }
 
 @media (max-width: 768px) {
@@ -229,7 +229,7 @@
 }
 
 /* Responsive Styles */
-@media (max-width: 768px) {
+@media (max-width: 700px) {
   .about-content {
     flex-direction: column;
     text-align: center;
